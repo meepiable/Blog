@@ -12,7 +12,7 @@
 
   <p></p>
   <p></p>
-  <p>Hello random person. I see you've stumbled across my blog. No matter how you did it, I just want to tell you thanks for taking the time to read this. I also want to tell you that <h3><i>you</i></h3> are special. You have done something others couldn't. What you have done, is be you. You have done it longer than anyone else, and can do it longer. You are you, and you are special. Have a great day!</p>
+  <h4>Hello random person. I see you've stumbled across my blog. No matter how you did it, I just want to tell you thanks for taking the time to read this. I also want to tell you that <h3><i>you</i></h3> are special. You have done something others couldn't. What you have done, is be you. You have done it longer than anyone else, and can do it longer. You are you, and you are special. Have a great day!</h4>
   <p></p>
   <p></p>
   <h3>Links:</h3>
