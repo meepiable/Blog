@@ -13,8 +13,8 @@
   <p></p>
   <h3>Links</h3>
   
-  <h5>My first website:</h5><a href="meepiable.github.io"></a>
-  <h5>My Minecraft mods:</h5><a href="meepiable.github.io/mods"></a>
-  <h5>My other website:</h5><a href="meepiable.github.io/IceBreakerGames"></a>
+  <h5>My first website:</h5><a href="meepiable.github.io">meepiable.github.io</a>
+  <h5>My Minecraft mods:</h5><a href="meepiable.github.io/mods">meepiable.github.io/mods</a>
+  <h5>My other website:</h5><a href="meepiable.github.io/IceBreakerGames">meepiable.github.io/IceBreakerGames</a>
 </html>
 
