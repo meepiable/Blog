@@ -12,8 +12,8 @@
   <p></p>
   <p></p>
   <h3>Links:</h3>
-  <a href="https://meepiable.github.io">meepiable.github.io</a> <p></p>
-  <a href="https://meepiable.github.io/mods">meepiable.github.io/mods</a> <p></p>
-  <a href="https://meepiable.github.io/IceBreakerGames">meepiable.github.io/IceBreakerGames</a>
+  <a href="https://meepiable.github.io">https://meepiable.github.io</a> <p></p>
+  <a href="https://meepiable.github.io/mods">https://meepiable.github.io/mods</a> <p></p>
+  <a href="https://meepiable.github.io/IceBreakerGames">https://meepiable.github.io/IceBreakerGames</a>
 
 </html>
