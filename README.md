@@ -12,8 +12,8 @@
   <p></p>
   <p></p>
   <h3>Links:</h3>
-</html>
+  <a href="meepiable.github.io">meepiable.github.io</a>
+  <a href="meepiable.github.io/mods">meepiable.github.io/mods</a>
+  <a href="meepiable.github.io/IceBreakerGames">meepiable.github.io/IceBreakerGames</a>
 
-  My first website: meepiable.github.io
-  My Minecraft mods: meepiable.github.io/mods
-  My other website: meepiable.github.io/IceBreakerGames
+</html>
