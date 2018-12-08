@@ -9,6 +9,10 @@
   <h3>8-12-2018</h3> <p></p>
   <hr/>
   <p>Hai guys! Oh wow... The chemistry lecture was soooooo boring. When I finished it I wanted to shout xD. All we discussed was the history of atoms, development of the atomic theory, and electron configuration. Actually, the last part wasn't that bad. The thing is, this is the third time I'm taking chemistry outside of class, and I've done this like 10 times each. I guess to me that's why it was boring. It also seemed like the speaker was reading from a script. Lemme tell ya why: He said "As you've all learned from high school...", but 2/3 of us aren't even in high school yet! (not me, I'm in high school) His tone was also really close to monotone as well. Oh well. That felt so much better. Anyways, hope you guys had an awesome day! If you wanna play in Minecraft or some video game, message me in my email, twitter, or discord. See ya!</p>
+  
+  <!--
+  
+  
   <h3>The Future!</h3> <p></p>
   <hr/>
   <h4>The Future</h4> <p></p>
